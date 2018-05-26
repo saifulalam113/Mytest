@@ -10,3 +10,8 @@ printf("Cloned repo 2");
 return 0;
 abcd
 }
+
+
+int add(int a ,int b){
+  return a+b; 
+}
