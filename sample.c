@@ -17,6 +17,13 @@ int add(int a ,int b){
 }
 
 
+<<<<<<< HEAD
 int substract(int a ,int b){
   return a-b; 
 }
+=======
+
+int multiply(int a ,int b){
+  return a*b; 
+}
+>>>>>>> e50510404cf878652969ca30e52fe20c1e22edda
